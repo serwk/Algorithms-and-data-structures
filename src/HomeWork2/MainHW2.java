@@ -3,7 +3,7 @@ package HomeWork2;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
-public class Main {
+public class MainHW2 {
 
     private static final int ARRAY_CAPACITY = 100_000;
 
